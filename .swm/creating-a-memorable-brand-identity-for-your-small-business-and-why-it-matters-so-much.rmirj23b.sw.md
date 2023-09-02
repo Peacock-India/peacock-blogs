@@ -44,6 +44,12 @@ Engaging contests, flashmobs, and challenges encourage users to promote your bra
 
 [strongCustom Web Development: Unleashing The Power Of Your Unique Online Presence](https://peacockindia.in/blog/custom-web-development/)
 
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FZ2l0aHViJTNBJTNBcGVhY29jay1ibG9ncyUzQSUzQVBlYWNvY2stSW5kaWE%3D%2Ffd789fee-b549-4831-8619-80ed3214a892.png?alt=media&token=1829f90d-0c90-48ba-9b20-80f19c8a37ec" style="width:'100%'"/></div>
+
+<br/>
+
 ## Referrals
 
 Encourage users to refer others to your brand through affiliate marketing or referral programs. Discounts, giveaways, and bonuses work wonders for brand promotion.
