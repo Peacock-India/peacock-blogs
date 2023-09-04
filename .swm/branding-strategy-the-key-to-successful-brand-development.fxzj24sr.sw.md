@@ -33,11 +33,11 @@ A strong brand identity builds trust, fosters loyalty, and helps customers recog
 
 ## Also Read
 
-*   [**Understanding the Key Principles of UX/UI Design**](https://blog.peacockindia.in/blog/key-principles-of-ux-ui-design/)
+*   [**Understanding the Key Principles of UX/UI Design**](https://peacockindia.in/blog/key-principles-of-ux-ui-design/)
 
-*   [**The Power Of Personal Branding: Building An Authentic And Impactful Presence**](https://blog.peacockindia.in/blog/personal-branding/)
+*   [**The Power Of Personal Branding: Building An Authentic And Impactful Presence**](https://peacockindia.in/blog/personal-branding/)
 
-*   [**Custom Web Development: Unleashing The Power Of Your Unique Online Presence**](https://blog.peacockindia.in/blog/custom-web-development/)
+*   [**Custom Web Development: Unleashing The Power Of Your Unique Online Presence**](https://peacockindia.in/blog/custom-web-development/)
 
 ## Crafting An Effective Marketing Strategy
 
