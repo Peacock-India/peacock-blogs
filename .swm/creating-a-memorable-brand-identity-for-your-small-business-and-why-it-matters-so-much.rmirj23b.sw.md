@@ -38,9 +38,11 @@ Engaging contests, flashmobs, and challenges encourage users to promote your bra
 
 ## Also Read
 
-[**strongBranding Strategy: The Key to Successful Brand Development**](https://peacockindia.in/blog/branding-strategy/)<br/>
-[**strongCrafting A Strong Brand Strategy: 14 Rules For Success**](https://peacockindia.in/blog/crafting-a-strong-brand-strategy-14-rules-for-success/)**<br/>
-**[**strongCustom Web Development: Unleashing The Power Of Your Unique Online Presence**](https://peacockindia.in/blog/custom-web-development/)
+*   [**Branding Strategy: The Key to Successful Brand Development**](https://peacockindia.in/blog/branding-strategy/)
+
+*   [**Crafting A Strong Brand Strategy: 14 Rules For Success**](https://peacockindia.in/blog/crafting-a-strong-brand-strategy-14-rules-for-success/)
+
+*   [**Custom Web Development: Unleashing The Power Of Your Unique Online Presence**](https://peacockindia.in/blog/custom-web-development/)
 
 <br/>
 
