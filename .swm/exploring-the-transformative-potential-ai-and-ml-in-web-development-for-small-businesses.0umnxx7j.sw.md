@@ -70,11 +70,11 @@ While the benefits of AI and ML are undeniable, they also entail challenges and 
 
 ## Also Read
 
-Branding Strategy: The Key to Successful Brand Development
+*   [**Branding Strategy: The Key to Successful Brand Development**](https://blog.peacockindia.in/branding-strategy/)
 
-The Banana Rule: Creating Intuitive UX/UI Design
+*   [**The Banana Rule: Creating Intuitive UX/UI Design**](https://blog.peacockindia.in/banana-rule-creating-intuitive-ux-ui-design/)
 
-Custom Web Development: Unleashing The Power Of Your Unique Online Presence
+*   [**Custom Web Development: Unleashing The Power Of Your Unique Online Presence**](https://blog.peacockindia.in/custom-web-development/)
 
 <br/>
 
