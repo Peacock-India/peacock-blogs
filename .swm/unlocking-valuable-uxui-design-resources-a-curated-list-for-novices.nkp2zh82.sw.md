@@ -35,6 +35,10 @@ Skribbl offers a growing collection of hand-drawn illustrations contributed by a
 
 Themeisle presents a platform where you can discover a wide array of illustrations for your design endeavors. What sets it apart is the ability to tweak the primary color of the image with a single click, ensuring seamless integration with your design scheme. With formats available in both PNG and SVG, you have the flexibility to choose what suits your needs.
 
+## Also Read
+
+<br/>
+
 ## 8\. Color Hunt: Craft Harmonious Color Palettes
 
 Color Hunt simplifies the process of generating color palettes that are visually harmonious. This tool aids in selecting color combinations that resonate well together, adding an appealing aesthetic to your designs. Whether you're looking for a single hex code or an entire palette, Color Hunt has you covered.
@@ -46,6 +50,14 @@ Huemint employs machine learning to craft unique color schemes that align with y
 ## 10\. StockSnap.io: A Treasure Trove of Free Stock Imagery
 
 Stocksnap.io offers a continually updated collection of free stock imagery that caters to various design needs. These images are available for both commercial and personal projects, providing a rich pool of visuals to enhance your creations.
+
+## Also Read
+
+*   [**Navigating the Expansive Landscape of UX & UI Design: An In-Depth Blueprint for Innovation**](https://peacockindia.in/blog/navigating-the-expansive-landscape-of-ux-ui-design-an-in-depth-blueprint-for-innovation)
+
+*   [**The Power Of Personal Branding: Building An Authentic And Impactful Presence**](https://peacockindia.in/blog/the-power-of-personal-branding-building-an-authentic-and-impactful-presence)
+
+*   [**Unveiling the Power of a Remarkable Brand Identity for Small Businesses**](https://peacockindia.in/blog/unveiling-the-power-of-a-remarkable-brand-identity-for-small-businesses)
 
 ## 11\. ShotStash: Quality Stock Photos for Professionals
 
@@ -68,8 +80,6 @@ Screenlane offers a wellspring of inspiration and keeps you updated with the lat
 Angle.sh is a hub for vector device mockups designed for Sketch, Figma, and XD. With a library boasting over 1000 mockups, this resource provides an array of options to enhance your design presentations. While a subscription offers access to the full library, you can also enjoy 50 free mockup downloads.
 
 In the world of UX/UI design, having the right resources at your fingertips is a game-changer. These carefully curated websites offer a plethora of assets, tools, and inspiration to elevate your design projects. Whether you're a novice or a seasoned designer, these resources are sure to become invaluable companions on your creative journey. Stay ahead of the curve, explore new possibilities, and create designs that leave a lasting impact.
-
-<br/>
 
 <br/>
 
