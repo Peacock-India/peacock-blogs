@@ -59,11 +59,11 @@ Repurpose and Promote Content: Maximise your content’s reach by repurposing it
 
 ## Also Read
 
-*   [strongBranding Strategy: The Key to Successful Brand Development](https://peacockindia.in/blog/branding-strategy/)
+*   [**Branding Strategy: The Key to Successful Brand Development**](https://peacockindia.in/blog/branding-strategy/)
 
-*   [strongUnderstanding the Key Principles of UX/UI Design](https://peacockindia.in/blog/key-principles-of-ux-ui-design/)
+*   [**Understanding the Key Principles of UX/UI Design**](https://peacockindia.in/blog/key-principles-of-ux-ui-design/)
 
-*   [strongCustom Web Development: Unleashing The Power Of Your Unique Online Presence](https://peacockindia.in/blog/custom-web-development/)
+*   [**Custom Web Development: Unleashing The Power Of Your Unique Online Presence**](https://peacockindia.in/blog/custom-web-development/)
 
 <br/>
 
