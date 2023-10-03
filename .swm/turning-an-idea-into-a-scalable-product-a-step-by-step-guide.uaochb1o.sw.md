@@ -7,13 +7,19 @@ app_version: 1.18.3
 
 Hey there! Ever had a fantastic idea and thought, "This could be a game-changer"? We totally get that feeling. This guide is all about helping you take that awesome idea and turning it into a product that can take on the world.
 
+<br/>
+
 ## 1\. Coming up with ideas
 
 First things first, you need an idea. It's like the seed that grows into a tree. Think about what problems people have and how your idea can solve them. Let your imagination run wild!
 
+<br/>
+
 ## 2\. Checking out the market
 
 Imagine having a cool new gadget, but nobody really wants it. That wouldn't be fun, right? That's why we need to see what people like and what's already out there. Understanding what's popular helps shape your idea into something people would love.
+
+<br/>
 
 <br/>
 
@@ -25,13 +31,19 @@ Imagine having a cool new gadget, but nobody really wants it. That wouldn't be f
 
 Now, let's not get ahead of ourselves. We want to make a simple, basic version of our idea - something to test the waters. It's like making a mini version of a cake before baking the whole thing. This is called a "Minimum Viable Product" or MVP. Let people try it out and tell you what they think.
 
+<br/>
+
 ## 4\. Improving your idea
 
 Feedback time! Listen to what people say about your MVP. What did they like? What didn't they like? Use their thoughts to make your idea even better. It's like adding toppings to your favorite pizza to make it perfect.
 
+<br/>
+
 ## 5\. Sharing your awesome product
 
 Now it's showtime! You've got this amazing, improved product, and the world needs to know. Tell people about it, show them how it can make their lives better, and why it's different from anything else out there.
+
+<br/>
 
 <br/>
 
@@ -42,6 +54,8 @@ Now it's showtime! You've got this amazing, improved product, and the world need
 ## 6\. Learning and growing
 
 But hey, the journey doesn't end here. Keep listening to what your users say and keep improving. It's like being a student, always learning and growing. The more you listen, the better your product becomes.
+
+<br/>
 
 ## Conclusion
 
