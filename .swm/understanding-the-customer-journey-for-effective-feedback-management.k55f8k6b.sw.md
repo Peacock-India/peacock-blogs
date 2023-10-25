@@ -2,34 +2,30 @@
 id: k55f8k6b
 title: Understanding the customer journey for effective feedback management
 file_version: 1.1.3
-app_version: 1.18.13
+app_version: 1.18.16
 ---
 
 Feedback is super important for businesses. It tells them what's working and what's not. But, you need to understand how customers give feedback. This guide will help you understand the problems customers face when giving feedback, the steps they go through, what they expect at each step, and how Feedback Sync can make things better.
-
-<br/>
 
 ## **Problems when giving feedback**
 
 Giving feedback can be tricky. Customers often face these issues:
 
-### **1\. Hard-to-Use Platforms**
+### 1\. Hard-to-Use Platforms
 
 The places to give feedback can’t be confusing. Complicated forms and steps can make customers not want to share their thoughts.
 
-### **2\. Worry About Being Ignored**
+### 2\. Worry About Being Ignored
 
 Some customers think no one will listen to their feedback. This can stop them from giving any.
 
-### **3\. Takes Too Much Time**
+### 3\. Takes Too Much Time
 
 Giving feedback can be slow. If it takes too long or feels boring, customers might give up.
 
-### **4\. Unclear Rules**
+### 4\. Unclear Rules
 
 Customers often don't know what good feedback is. This can make them confused.
-
-<br/>
 
 <br/>
 
@@ -41,53 +37,49 @@ Customers often don't know what good feedback is. This can make them confused.
 
 Customers go through a few steps when they give feedback:
 
-### **1\. Realizing They Need to Give Feedback**
+### 1\. Realizing They Need to Give Feedback
 
 Customers notice a problem or have an idea. They decide if they want to say something about it.
 
-### **2\. Picking a Way to Give Feedback**
+### 2\. Picking a Way to Give Feedback
 
 Customers choose how they want to give feedback, like using a website, email, or talking to someone.
 
-### **3\. Sharing Feedback**
+### 3\. Sharing Feedback
 
 This is when customers tell their thoughts and experiences.
 
-### **4\. After Giving Feedback**
+### 4\. After Giving Feedback
 
 After sharing feedback, customers might feel different things, from being relieved to wondering if it even matters.
-
-<br/>
 
 ## **What customers expect and what bugs them at each step**
 
 At each step, customers have some things they hope for and things that annoy them:
 
-### **1\. Realization Stage**
+### 1\. Realization Stage
 
 **Expectations:** Customers want businesses to care about their feedback and try to get better.
 
 **Issues:** Feeling like no one is listening can be annoying and stop customers from going on.
 
-### **2\. Picking a Way to Give Feedback**
+### 2\. Picking a Way to Give Feedback
 
 **Expectations:** Customers want an easy way to give feedback.
 
 **Issues:** Hard forms and not many ways to give feedback can be a pain.
 
-### **3\. Sharing Feedback**
+### 3\. Sharing Feedback
 
 **Expectations:** Customers want to easily say what they think and know it matters.
 
 **Issues:** Long and boring steps can make customers not want to share.
 
-### **4\. After Giving Feedback**
+### 4\. After Giving Feedback
 
 **Expectations:** Customers want someone to say they got the feedback and are doing something about it.
 
 **Issues:** If nothing happens after giving feedback, customers can get sad and not want to help anymore.
-
-<br/>
 
 <br/>
 
@@ -99,31 +91,29 @@ At each step, customers have some things they hope for and things that annoy the
 
 Feedback Sync makes things better for customers at each step:
 
-### **1\. Easy Feedback**
+### 1\. Easy Feedback
 
 Feedback Sync has an easy way to give feedback, so customers don't have to struggle.
 
-### **2\. Quick Response**
+### 2\. Quick Response
 
 Customers get quick answers to their feedback, so they know someone is listening.
 
-### **3\. Many Ways to Share**
+### 3\. Many Ways to Share
 
 Feedback Sync has lots of ways to give feedback, so it's easy for everyone.
 
-### **4\. Problems Get Fixed Fast**
+### 4\. Problems Get Fixed Fast
 
 Feedback Sync makes sure problems get fixed fast, so customers are happy.
 
-### **5\. Always Getting Better**
+### 5\. Always Getting Better
 
 Feedback Sync is always trying to get better, which shows they care about customers.
 
-### **6\. Clear Communication**
+### 6\. Clear Communication
 
 Feedback Sync helps customers talk to businesses easily, which makes them trust more.
-
-<br/>
 
 ## **FAQs**
 
