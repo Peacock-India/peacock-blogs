@@ -2,7 +2,7 @@
 id: mt2gfir9
 title: "Unravelling the mystery: how does application monitoring work?"
 file_version: 1.1.3
-app_version: 1.18.34
+app_version: 1.18.36
 ---
 
 Greetings! I am a professional copywriting journalist, and in this article, I will be your guide to understanding the ins and outs of **application monitoring**. With the increasing dependence on software applications, monitoring their performance and behavior has become critical for organizations. By the end of this article, you'll have a deep understanding of how **application monitoring** works, its importance, the process involved, tools, best practices, and challenges.
@@ -147,7 +147,7 @@ By following these best practices, you can ensure that your application monitori
 
 <br/>
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FZ2l0aHViJTNBJTNBcGVhY29jay1ibG9ncyUzQSUzQVBlYWNvY2stSW5kaWE%3D%2F983c393c-ec76-428d-8a4f-b7c3d0cff6ee.png?alt=media&token=caff734d-098b-4f06-8830-a3a73797fd0f" style="width:'50%'"/></div>
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FZ2l0aHViJTNBJTNBcGVhY29jay1ibG9ncyUzQSUzQVBlYWNvY2stSW5kaWE%3D%2F983c393c-ec76-428d-8a4f-b7c3d0cff6ee.png?alt=media&token=caff734d-098b-4f06-8830-a3a73797fd0f" style="width:'100%'"/></div>
 
 <br/>
 
@@ -178,6 +178,18 @@ For example, if you notice that response times are consistently slow, you can in
 It's important to note that application issues may not always be straightforward to diagnose. For instance, multiple factors could cause slow response times, and you may need to analyze several metrics to pinpoint the cause. In such cases, it's important to have a systematic approach to troubleshooting and leverage the expertise of your team members to resolve the issue.
 
 By identifying and resolving issues before they escalate, you can ensure the smooth functioning of your applications and minimize disruption for end-users. Remember to keep a close eye on your monitoring tools and take prompt action whenever issues arise.
+
+<br/>
+
+## **Also Read**
+
+[**Turning an idea into a scalable product: a step-by-step guide**](https://www.connectfella.com/blog/turning-an-idea-into-a-scalable-product-a-step-by-step-guide)
+
+[**Running remote design sprints: tips and tools for distributed teams**](https://www.connectfella.com/blog/running-remote-design-sprints-tips-and-tools-for-distributed-teams)
+
+[**Design systems: your product's secret weapon**](https://www.connectfella.com/blog/design-systems-your-products-secret-weapon)
+
+<br/>
 
 ## **Performance optimization and tuning**
 
