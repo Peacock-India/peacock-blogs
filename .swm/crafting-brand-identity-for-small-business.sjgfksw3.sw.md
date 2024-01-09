@@ -1,5 +1,5 @@
 ---
-title: 'Understanding the Key Differences: Branding vs Identity'
+title: Crafting Brand Identity for Small Business
 ---
 As a small business owner, I know firsthand that creating a brand identity is the key to standing out in today's competitive market. For small businesses, a strong brand identity not only reflects our core values and purpose, but it also sets the foundation for customer loyalty and trust. That's why I believe that investing time and resources in brand development for small businesses, including my own, is essential for long-term success.
 
